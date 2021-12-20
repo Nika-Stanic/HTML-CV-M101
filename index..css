@@ -1,0 +1,41 @@
+
+body{
+    background: mediumblue;
+}
+img{
+    image-resolution: normal;
+    background-position: top left;
+    background-size: 100px;
+
+
+}
+p {
+    color: powderblue;
+    font-family: "Fuzzy Bubbles";
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    border: 2px groove white;
+    box-shadow: 10px 10px 10px blue;
+}
+h2 {
+    color: lightblue;
+    font-size : 30px;
+    font-family: "Fuzzy Bubbles";
+    text-align: center;
+}
+h3 {
+    color:lightblue;
+    font-size : 16px;
+    font-family: "Fuzzy Bubbles";
+    text-align: center;
+}
+li {
+    color: aliceblue;
+    font-family: "Indie Flower";
+    text-align: -moz-center;
+}
